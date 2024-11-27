@@ -1,0 +1,13 @@
+2024-11-27 09:28:28,736 - log.test_logger - INFO - __name__: log.test_logger
+2024-11-27 09:28:28,737 - log.test_logger - INFO - custom_config: {<LoggerConfig.MAIN_LEVEL: 1>: 10, <LoggerConfig.CONSOLE_LEVEL: 2>: 10, <LoggerConfig.FILE_LEVEL: 5>: 10, <LoggerConfig.LOG_TO_FILE_FLAG: 4>: True, <LoggerConfig.LOG_FILE_PATH: 6>: WindowsPath('C:/atari-monk/code/data-files/cli_tool/logs/log.test_logger.log'), <LoggerConfig.USE_ROTATING_FILE: 7>: False}
+2024-11-27 09:28:28,737 - log.test_logger - DEBUG - This is a debug message.
+2024-11-27 09:28:28,738 - log.test_logger - INFO - This is an informational message.
+2024-11-27 09:28:28,743 - log.test_logger - WARNING - This is a warning message.
+2024-11-27 09:28:28,744 - log.test_logger - ERROR - This is an error message.
+2024-11-27 09:28:28,744 - log.test_logger - CRITICAL - This is a critical error message.
+2024-11-27 09:28:28,744 - log.test_logger - ERROR - An exception occurred: division by zero
+Traceback (most recent call last):
+  File "C:\Python\Lib\site-packages\log\test_logger.py", line 19, in log_test_command
+    result = 10 / 0
+             ~~~^~~
+ZeroDivisionError: division by zero

@@ -1,0 +1,2 @@
+2024-11-27 09:29:05,680 - log.estimate_task - INFO - LOG_FILE_PATH, C:\atari-monk\code\data-files\cli_tool\logs\log.estimate_task.log
+2024-11-27 09:35:15,782 - log.estimate_task - INFO - {'timestamp': '2024-11-27 09:29:05', 'project': 'cli_tool', 'task': 'report_task command to log info on task', 'time_estimate': '00:25'}
