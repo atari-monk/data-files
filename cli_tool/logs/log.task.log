@@ -4,3 +4,11 @@
 2024-11-27 10:31:34,231 - log.report_task - INFO - {'project': 'cli_tool', 'task': 'use one log file for log commands', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '00:17'}
 2024-11-27 10:34:35,569 - log.estimate_task - INFO - {'project': 'cli_tool', 'task': 'remove timestamp from log task data', 'time_estimate': '00:10'}
 2024-11-27 10:45:39,928 - log.report_task - INFO - {'project': 'cli_tool', 'task': 'remove timestamp from log task data', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '00:11'}
+2024-11-27 12:55:48,514 - log.estimate_task - INFO - {'project': 'cli_tool', 'task': 'command helping to discover next task', 'time_estimate': '00:20'}
+2024-11-27 13:58:17,628 - log.report_task - INFO - {'project': 'cli_tool', 'task': 'command helping to discover next task', 'coded': 'n', 'tested': 'n', 'documented': 'y', 'committed': 'y', 'real_time': '01:03'}
+2024-11-27 14:18:01,189 - log.estimate_task - INFO - {'project': 'cli_tool', 'task': 'refactor vid_to_mp3 to tool and command part', 'time_estimate': '00:20'}
+2024-11-27 15:19:37,206 - log.report_task - INFO - {'project': 'cli_tool', 'task': 'refactor vid_to_mp3 to tool and command part', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'n', 'real_time': '01:01'}
+2024-11-27 19:13:10,819 - log.estimate_task - INFO - {'project': 'cli_tool', 'task': 'base class for argparse for while loop', 'time_estimate': '00:50'}
+2024-11-27 20:14:22,085 - log.report_task - INFO - {'project': 'cli_tool', 'task': 'base class for argparse for while loop', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '01:00'}
+2024-11-27 22:00:25,781 - log.estimate_task - INFO - {'project': 'doc-site', 'task': 'store chatgpt notes', 'time_estimate': '01:00'}
+2024-11-27 23:20:53,776 - log.report_task - INFO - {'project': 'doc-site', 'task': 'store chatgpt notes', 'coded': 'n', 'tested': 'n', 'documented': 'y', 'committed': 'y', 'real_time': '01:20'}
