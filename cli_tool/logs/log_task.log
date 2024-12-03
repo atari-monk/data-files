@@ -50,3 +50,9 @@
 2024-12-02 14:16:27,800 - report_task - INFO - {'project': 'cli_tool', 'task': 'save md in write cmd doc_site, test', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:46'}
 2024-12-02 16:49:02,233 - estimate_task - INFO - {'project': 'cli_tool', 'task': 'clear chatgpt notes using editor and commands', 'time_estimate': '00:25'}
 2024-12-02 17:47:52,027 - report_task - INFO - {'project': 'cli_tool', 'task': 'clear chatgpt notes using editor and commands', 'coded': 'n', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '01:00'}
+2024-12-02 19:57:48,417 - estimate_task - INFO - {'project': 'cli_tool', 'task': 'rename commands to fit convention', 'time_estimate': '00:25'}
+2024-12-02 21:29:14,063 - report_task - INFO - {'project': 'cli_tool', 'task': 'rename commands to fit convention', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '01:30'}
+2024-12-03 10:14:26,850 - estimate_task - INFO - {'project': 'job', 'task': 'updating cv', 'time_estimate': '01:00'}
+2024-12-03 11:05:10,354 - report_task - INFO - {'project': 'job', 'task': 'updating cv', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:50'}
+2024-12-03 11:06:03,684 - estimate_task - INFO - {'project': 'job', 'task': 'searching', 'time_estimate': '01:00'}
+2024-12-03 12:35:19,758 - report_task - INFO - {'project': 'job', 'task': 'searching', 'coded': 'n', 'tested': 'n', 'documented': 'y', 'committed': 'y', 'real_time': '01:30'}
