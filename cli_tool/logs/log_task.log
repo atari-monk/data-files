@@ -56,3 +56,5 @@
 2024-12-03 11:05:10,354 - report_task - INFO - {'project': 'job', 'task': 'updating cv', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:50'}
 2024-12-03 11:06:03,684 - estimate_task - INFO - {'project': 'job', 'task': 'searching', 'time_estimate': '01:00'}
 2024-12-03 12:35:19,758 - report_task - INFO - {'project': 'job', 'task': 'searching', 'coded': 'n', 'tested': 'n', 'documented': 'y', 'committed': 'y', 'real_time': '01:30'}
+2024-12-03 15:05:37,563 - estimate_task - INFO - {'project': 'doc_site', 'task': 'portfolio page', 'time_estimate': '00:25'}
+2024-12-03 17:00:51,073 - report_task - INFO - {'project': 'doc_site', 'task': 'portfolio page', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '01:55'}
