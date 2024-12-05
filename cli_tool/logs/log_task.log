@@ -76,3 +76,13 @@
 2024-12-04 20:09:11,158 - estimate_task - INFO - {'project': 'cli_tool', 'task': 'refactor example, doc_site, chat', 'time_estimate': '00:30'}
 2024-12-04 20:33:20,326 - report_task - INFO - {'project': 'cli_tool', 'task': 'refactor example, doc_site', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:24'}
 2024-12-04 20:52:19,495 - report_task - INFO - {'project': 'job', 'task': 'job talk with manager in shop company kaufland near my flat', 'coded': 'n', 'tested': 'n', 'documented': 'y', 'committed': 'n', 'real_time': '03:00'}
+2024-12-05 11:16:15,046 - estimate_task - INFO - {'project': 'cli_tool', 'task': 'names of loggers to enum', 'time_estimate': '00:25'}
+2024-12-05 11:54:37,798 - report_task - INFO - {'project': 'cli_tool', 'task': 'names of loggers to enum', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:38'}
+2024-12-05 12:04:08,998 - estimate_task - INFO - {'project': 'cli_tool', 'task': 'make logger config reusable', 'time_estimate': '00:25'}
+2024-12-05 12:44:47,286 - report_task - INFO - {'project': 'cli_tool', 'task': 'make logger config reusable', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:40'}
+2024-12-05 13:17:03,330 - estimate_task - INFO - {'project': 'cli_tool', 'task': 'refactor logging in vid cmd', 'time_estimate': '00:25'}
+2024-12-05 13:31:27,033 - report_task - INFO - {'project': 'cli_tool', 'task': 'refactor logging in vid cmd', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:15'}
+2024-12-05 13:32:12,889 - estimate_task - INFO - {'project': 'cli_tool', 'task': 'refactor task cmds logging, fix all cmds logging config', 'time_estimate': '00:25'}
+2024-12-05 14:29:41,785 - report_task - INFO - {'project': 'cli_tool', 'task': 'refactor task cmds logging', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '01:00'}
+2024-12-05 14:30:13,170 - estimate_task - INFO - {'project': 'cli_tool', 'task': 'refactor cmds logging', 'time_estimate': '00:25'}
+2024-12-05 15:04:52,283 - report_task - INFO - {'project': 'cli_tool', 'task': 'refactor cmds logging', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:34'}
