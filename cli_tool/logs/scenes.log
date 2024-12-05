@@ -1,0 +1,39 @@
+2024-12-05 21:32:23,731 - scene_write - INFO - Scene 'field' saved to C:\atari-monk\code\ts-engine-nx\data\scenes.jsonl.
+2024-12-05 21:42:09,777 - scene_write - INFO - {
+  "name": "field",
+  "description": "Scene presents field asset for football.\\nIt contains sprite with static grass texture. On the sides walls are placed.\\nWalls form a cage from witch ball can bounce off. They are black with white borderline.\\nThey form a gate for goal posts.",
+  "path": "feature\\football\\assets\\field",
+  "image": null,
+  "entities": [
+    {
+      "name": "options",
+      "components": [
+        "rendererOptions"
+      ],
+      "systems": [
+        "SpriteRenderer"
+      ]
+    },
+    {
+      "name": "canvas",
+      "components": [
+        "canvasScale"
+      ],
+      "systems": [
+        "canvasScaler"
+      ]
+    },
+    {
+      "name": "field",
+      "components": [
+        "transform",
+        "boxCollider[]",
+        "sprite"
+      ],
+      "systems": [
+        "spriteRenderer",
+        "collisionBoxRenderer"
+      ]
+    }
+  ]
+}
