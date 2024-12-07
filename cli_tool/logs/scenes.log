@@ -37,3 +37,129 @@
     }
   ]
 }
+2024-12-06 19:49:42,843 - scene_write - INFO - Scene '002_gates' saved to C:\atari-monk\code\ts-engine-nx\data\scenes.jsonl.
+2024-12-06 19:52:26,045 - scene_write - INFO - {
+  "name": "002_gates",
+  "description": "Building on 001 this scene adds goal posts.\\nThey are placed so that ball bounces of the walls and scores after falling in.\\nThey are static sprites with image rendered form blender model.",
+  "path": "feature\\football\\assets\\002_gates",
+  "image": null,
+  "entities": [
+    {
+      "name": "options",
+      "components": [
+        "rendererOptions"
+      ],
+      "systems": [
+        "SpriteRenderer"
+      ]
+    },
+    {
+      "name": "canvas",
+      "components": [
+        "canvasScale"
+      ],
+      "systems": [
+        "canvasScaler"
+      ]
+    },
+    {
+      "name": "field",
+      "components": [
+        "transform",
+        "boxCollider[]",
+        "sprite"
+      ],
+      "systems": [
+        "sceneRenderer"
+      ]
+    },
+    {
+      "name": "leftGate",
+      "components": [
+        "transform",
+        "sprite"
+      ],
+      "systems": [
+        "sceneRenderer_layer2"
+      ]
+    },
+    {
+      "name": "rightGate",
+      "components": [
+        "transform",
+        "sprite"
+      ],
+      "systems": [
+        "sceneRenderer_layer2"
+      ]
+    }
+  ]
+}
+2024-12-06 21:06:04,604 - scene_write - INFO - Scene '003_ball' saved to C:\atari-monk\code\ts-engine-nx\data\scenes.jsonl.
+2024-12-06 21:09:15,213 - scene_write - INFO - {
+  "name": "003_ball",
+  "description": "Ball is added to filed and goal posts. Placed in the middle. It is a sprite with idle and spin animation. Texture is rendered from blender model.",
+  "path": "feature/football/assets/003_ball",
+  "image": null,
+  "entities": [
+    {
+      "name": "ball",
+      "components": [
+        "transform",
+        "boxCollider",
+        "rigidBody",
+        "sprite"
+      ],
+      "systems": [
+        "sceneRenderer_layer2"
+      ]
+    }
+  ]
+}
+2024-12-06 21:45:13,255 - scene_write - INFO - Scene '004_players' saved to C:\atari-monk\code\ts-engine-nx\data\scenes.jsonl.
+2024-12-06 21:46:10,649 - scene_write - INFO - {
+  "name": "004_players",
+  "description": "Players are added to field, walls, goal posts, ball. Players are sprites with idel and walk animation. Images are generated from blender animated model. They are placed symetrically around a ball in center, on both sides.",
+  "path": "feature\\football\\assets\\004_players",
+  "image": null,
+  "entities": [
+    {
+      "name": "player1",
+      "components": [
+        "transform",
+        "sprite"
+      ],
+      "systems": [
+        "sceneRenderer_layer3"
+      ]
+    },
+    {
+      "name": "player2",
+      "components": [
+        "transform",
+        "sprite"
+      ],
+      "systems": [
+        "sceneRenderer_layer3"
+      ]
+    }
+  ]
+}
+2024-12-06 21:54:40,911 - scene_write - INFO - Scene '005_score' saved to C:\atari-monk\code\ts-engine-nx\data\scenes.jsonl.
+2024-12-06 21:55:31,865 - scene_write - INFO - {
+  "name": "005_score",
+  "description": "Score is added to scene with field, walls, goal posts, ball, players. It is numbers in red and blue for teams. In the middle yellow ':' separator. Text scales with canvas.",
+  "path": "feature\\football\\assets\\005_score",
+  "image": null,
+  "entities": [
+    {
+      "name": "gameScore",
+      "components": [
+        "score"
+      ],
+      "systems": [
+        "scoreRenderer"
+      ]
+    }
+  ]
+}
