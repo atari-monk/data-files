@@ -106,3 +106,52 @@
 2024-12-07 18:00:07,106 - report_task - INFO - {'project': 'nx-web-template', 'task': 'set up project with nx', 'coded': 'y', 'tested': 'n', 'documented': 'y', 'committed': 'y', 'real_time': '01:00'}
 2024-12-07 20:09:19,778 - estimate_task - INFO - {'project': 'nx-web-template', 'task': 'set up project with nx', 'time_estimate': '00:25'}
 2024-12-07 21:39:06,472 - report_task - INFO - {'project': 'nx-web-template', 'task': 'set up project with nx', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '01:30'}
+2024-12-08 17:57:22,050 - estimate_task - INFO - {'project': 'battleship', 'task': 'implement status of connection', 'time_estimate': '00:25'}
+2024-12-08 18:27:13,087 - report_task - INFO - {'project': 'battleship', 'task': 'implement status of connection', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '00:30'}
+2024-12-08 18:28:35,737 - estimate_task - INFO - {'project': 'battleship', 'task': 'chat', 'time_estimate': '01:00'}
+2024-12-08 19:14:48,331 - report_task - INFO - {'project': 'battleship', 'task': 'chat', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '00:45'}
+2024-12-08 22:12:46,627 - estimate_task - INFO - {'project': 'battleship', 'task': 'server, client shared lib', 'time_estimate': '00:25'}
+2024-12-08 22:40:54,588 - report_task - INFO - {'project': 'battleship', 'task': 'server, client shared lib', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '00:28'}
+2024-12-08 22:41:52,115 - estimate_task - INFO - {'project': 'battleship', 'task': 'battleship grid', 'time_estimate': '01:00'}
+2024-12-09 10:13:57,699 - estimate_task - INFO - {'project': 'nx-web-template', 'task': 'test setup', 'time_estimate': '02:00'}
+2024-12-09 14:07:27,797 - report_task - INFO - {'project': 'nx-web-template', 'task': 'test setup', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '03:54'}
+2024-12-09 17:08:05,383 - estimate_task - INFO - {'project': 'nx-web-template', 'task': 'test template', 'time_estimate': '01:00'}
+2024-12-09 19:02:36,328 - report_task - INFO - {'project': 'nx-web-template', 'task': 'test template', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '01:54'}
+2024-12-09 21:47:27,605 - estimate_task - INFO - {'project': 'nx-web-template', 'task': 'chat', 'time_estimate': '01:00'}
+2024-12-09 23:07:52,266 - report_task - INFO - {'project': 'nx-web-template', 'task': 'chat', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '01:20'}
+2024-12-10 10:18:50,681 - estimate_task - INFO - {'project': 'chat', 'task': 'fix chat, upgrade', 'time_estimate': '00:30'}
+2024-12-10 11:50:46,428 - report_task - INFO - {'project': 'chat', 'task': 'fix chat, upgrade', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '01:30'}
+2024-12-10 16:41:57,840 - estimate_task - INFO - {'project': 'battleship', 'task': 'battleship grid', 'time_estimate': '00:30'}
+2024-12-10 17:43:21,435 - report_task - INFO - {'project': 'battleship', 'task': 'battleship grid', 'coded': 'y', 'tested': 'n', 'documented': 'n', 'committed': 'y', 'real_time': '01:00'}
+2024-12-10 17:50:01,068 - estimate_task - INFO - {'battleship': 'remove errors on console', 'task': 'remove errors on console', 'time_estimate': '00:20'}
+2024-12-10 19:18:40,749 - report_task - INFO - {'project': 'battleship', 'task': 'remove errors on console', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '01:30'}
+2024-12-10 21:32:26,317 - estimate_task - INFO - {'project': 'battleship', 'task': 'grid', 'time_estimate': '00:30'}
+2024-12-10 22:53:05,855 - report_task - INFO - {'project': 'battleship', 'task': 'grid', 'coded': 'n', 'tested': 'n', 'documented': 'n', 'committed': 'n', 'real_time': '01:20'}
+2024-12-11 11:30:41,758 - estimate_task - INFO - {'project': 'battleship', 'task': 'grid', 'time_estimate': '00:30'}
+2024-12-11 12:49:14,697 - report_task - INFO - {'project': 'battleship', 'task': 'grid', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '01:18'}
+2024-12-11 14:53:05,442 - estimate_task - INFO - {'project': 'battleship', 'task': 'placing ships', 'time_estimate': '00:30'}
+2024-12-11 16:59:17,739 - report_task - INFO - {'project': 'battleship', 'task': 'placing ships', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '02:08'}
+2024-12-11 17:04:47,313 - estimate_task - INFO - {'project': 'battleship', 'task': 'establish client server connection', 'time_estimate': '01:00'}
+2024-12-11 17:59:33,170 - report_task - INFO - {'project': 'battleship', 'task': 'establish client server connection', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '01:00'}
+2024-12-11 21:32:18,539 - estimate_task - INFO - {'project': 'battleship', 'task': 'player id presistance', 'time_estimate': '00:30'}
+2024-12-11 23:00:26,618 - estimate_task - INFO - {'project': 'battleship', 'task': 'player id presistance', 'time_estimate': '01:30'}
+2024-12-12 09:58:03,816 - estimate_task - INFO - {'project': 'battleship', 'task': 'position ships', 'time_estimate': '01:00'}
+2024-12-12 10:41:18,152 - report_task - INFO - {'project': 'battleship', 'task': 'Fix error, extract services classes', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:41'}
+2024-12-12 12:17:37,209 - estimate_task - INFO - {'project': 'battleship', 'task': 'fleet placed event', 'time_estimate': '00:30'}
+2024-12-12 13:27:43,370 - report_task - INFO - {'project': 'battleship', 'task': 'fix data (client server) sending bug', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '01:10'}
+2024-12-12 15:21:31,807 - estimate_task - INFO - {'project': 'job search', 'task': 'search', 'time_estimate': '00:30'}
+2024-12-12 15:47:57,623 - report_task - INFO - {'project': 'job search', 'task': 'search', 'coded': 'n', 'tested': 'n', 'documented': 'y', 'committed': 'n', 'real_time': '00:26'}
+2024-12-12 18:50:23,994 - estimate_task - INFO - {'project': 'battleship', 'task': 'fleet placement', 'time_estimate': '00:30'}
+2024-12-12 23:50:26,612 - report_task - INFO - {'project': 'flat', 'task': 'rework room, removed not used, laptop standing, pc, laptop sitting', 'coded': 'n', 'tested': 'n', 'documented': 'n', 'committed': 'n', 'real_time': '05:00'}
+2024-12-12 23:50:53,604 - estimate_task - INFO - {'project': 'battleship', 'task': 'state component', 'time_estimate': '00:25'}
+2024-12-13 00:00:33,487 - report_task - INFO - {'project': 'battleship', 'task': 'state component', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'n', 'real_time': '00:10'}
+2024-12-13 14:04:39,160 - estimate_task - INFO - {'project': 'battleship', 'task': 'state component usage', 'time_estimate': '00:30'}
+2024-12-13 14:45:50,775 - report_task - INFO - {'project': 'battleship', 'task': 'state component usage', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:40'}
+2024-12-13 20:06:17,019 - estimate_task - INFO - {'project': 'battleship', 'task': 'fleet placement should be persisted', 'time_estimate': '00:25'}
+2024-12-13 21:19:31,892 - report_task - INFO - {'project': 'battleship', 'task': 'persisted fleet state to file, it is wrong', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '01:13'}
+2024-12-13 22:46:25,577 - estimate_task - INFO - {'project': 'battleship', 'task': 'refactor/get state form client', 'time_estimate': '01:00'}
+2024-12-13 23:11:55,654 - report_task - INFO - {'project': 'battleship', 'task': 'refactor fleet grid component, move logic to service', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:25'}
+2024-12-13 23:12:35,577 - estimate_task - INFO - {'project': 'battleship', 'task': 'get state or data from client', 'time_estimate': '00:25'}
+2024-12-13 23:45:21,889 - report_task - INFO - {'project': 'battleship', 'task': 'print fleet on client', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:30'}
+2024-12-13 23:48:39,273 - estimate_task - INFO - {'project': 'battleship', 'task': 'print data on server', 'time_estimate': '00:25'}
+2024-12-14 00:20:21,586 - report_task - INFO - {'project': 'battleship', 'task': 'fixed transfer grid data from client to server', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:30'}
