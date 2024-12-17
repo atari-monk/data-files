@@ -4,3 +4,13 @@
 2024-12-12 14:59:03,789 - vid_mp3 - INFO - Download and conversion to MP3 completed.
 2024-12-16 13:04:49,262 - vid_mp3 - INFO - Running VidToMp3 with URL: https://youtu.be/-bBzIgIaPS4
 2024-12-16 13:10:17,584 - vid_mp3 - INFO - Download and conversion to MP3 completed.
+2024-12-17 12:08:11,152 - vid_mp3 - INFO - Running VidToMp3 with URL: https://youtu.be/Yd7vDterctQ
+2024-12-17 12:09:39,608 - vid_mp3 - INFO - Download and conversion to MP3 completed.
+2024-12-17 13:36:07,037 - vid_mp3 - INFO - Running VidToMp3 with URL: https://youtu.be/6aouLxiL4Cw
+2024-12-17 13:39:32,343 - vid_mp3 - INFO - Download and conversion to MP3 completed.
+2024-12-17 18:19:48,529 - vid_mp3 - INFO - Running VidToMp3 with URL: https://youtu.be/4jc1TJoNUuA
+2024-12-17 18:20:15,932 - vid_mp3 - ERROR - Error: [0;31mERROR:[0m [download] Got error: HTTPSConnectionPool(host='rr2---sn-oxup5-2v1z.googlevideo.com', port=443): Read timed out. (read timeout=20.0)
+2024-12-17 18:21:35,140 - vid_mp3 - INFO - Running VidToMp3 with URL: https://youtu.be/4jc1TJoNUuA
+2024-12-17 18:21:58,358 - vid_mp3 - ERROR - Error: [0;31mERROR:[0m [download] Got error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-12-17 18:23:18,981 - vid_mp3 - INFO - Running VidToMp3 with URL: https://youtu.be/tO2yRFla_1I
+2024-12-17 18:25:27,544 - vid_mp3 - INFO - Download and conversion to MP3 completed.
