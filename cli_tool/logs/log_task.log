@@ -179,3 +179,13 @@
 2024-12-17 19:02:05,787 - report_task - INFO - {'project': 'battleship', 'task': 'refactored placeFleet', 'coded': 'y', 'tested': 'n', 'documented': 'n', 'committed': 'y', 'real_time': '00:25'}
 2024-12-17 19:23:47,179 - estimate_task - INFO - {'project': 'battleship', 'task': 'refactor attack', 'time_estimate': '00:25'}
 2024-12-17 19:51:58,776 - report_task - INFO - {'project': 'battleship', 'task': 'refactored attack', 'coded': 'y', 'tested': 'n', 'documented': 'n', 'committed': 'y', 'real_time': '00:30'}
+2024-12-18 12:10:43,879 - estimate_task - INFO - {'project': 'battleship', 'task': 'generate files to test refactored code and test it', 'time_estimate': '00:25'}
+2024-12-18 12:22:35,815 - report_task - INFO - {'project': 'battleship', 'task': 'refactored gateway in use', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:12'}
+2024-12-18 13:06:35,032 - estimate_task - INFO - {'project': 'battleship', 'task': 'EmitPayload interface refactor', 'time_estimate': '4-6 hours'}
+2024-12-18 14:38:53,665 - report_task - INFO - {'project': 'battleship', 'task': 'refactor server emits', 'coded': 'y', 'tested': 'n', 'documented': 'n', 'committed': 'y', 'real_time': '01:30'}
+2024-12-18 15:18:18,134 - estimate_task - INFO - {'project': 'battleship', 'task': 'test client server after refactor and fixing communication', 'time_estimate': '01:00'}
+2024-12-18 15:56:58,470 - report_task - INFO - {'project': 'battleship', 'task': 'fixed bug, sokect io was not working in ts lib, in nest lib ok', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:30'}
+2024-12-18 16:39:09,430 - estimate_task - INFO - {'project': 'battleship', 'task': 'produce doc with server client communication sequence', 'time_estimate': '01:00'}
+2024-12-18 17:45:50,893 - report_task - INFO - {'project': 'battleship', 'task': 'server client event list doc pt1', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '01:05'}
+2024-12-18 19:49:40,468 - estimate_task - INFO - {'project': 'battleship', 'task': 'refactor client events', 'time_estimate': '01:00'}
+2024-12-18 20:41:39,557 - report_task - INFO - {'project': 'battleship', 'task': 'refactor client events', 'coded': 'y', 'tested': 'n', 'documented': 'n', 'committed': 'y', 'real_time': '00:50'}
