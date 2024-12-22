@@ -189,3 +189,43 @@
 2024-12-18 17:45:50,893 - report_task - INFO - {'project': 'battleship', 'task': 'server client event list doc pt1', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '01:05'}
 2024-12-18 19:49:40,468 - estimate_task - INFO - {'project': 'battleship', 'task': 'refactor client events', 'time_estimate': '01:00'}
 2024-12-18 20:41:39,557 - report_task - INFO - {'project': 'battleship', 'task': 'refactor client events', 'coded': 'y', 'tested': 'n', 'documented': 'n', 'committed': 'y', 'real_time': '00:50'}
+2024-12-19 13:05:43,250 - estimate_task - INFO - {'project': 'battleship', 'task': 'refactor client, get doc of server client comm sequence', 'time_estimate': '01:00'}
+2024-12-19 14:19:33,721 - report_task - INFO - {'project': 'battleship', 'task': 'refactor client, get doc of server client comm sequence', 'coded': 'y', 'tested': 'n', 'documented': 'y', 'committed': 'y', 'real_time': '01:15'}
+2024-12-19 15:06:54,716 - estimate_task - INFO - {'project': 'battleship', 'task': 'show ship hit in ui grid', 'time_estimate': '01:00'}
+2024-12-19 15:28:33,230 - report_task - INFO - {'project': 'battleship', 'task': 'show ship hit in ui grid, fail, bug in ship placement', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '00:30'}
+2024-12-19 15:29:32,198 - estimate_task - INFO - {'project': 'battleship', 'task': 'fix fleet placement bug', 'time_estimate': '00:25'}
+2024-12-19 15:38:56,557 - report_task - INFO - {'project': 'battleship', 'task': 'fixed fleet placement bug', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:10'}
+2024-12-19 15:39:32,674 - estimate_task - INFO - {'project': 'battleship', 'task': 'fix game start turn bug pt1', 'time_estimate': '01:00'}
+2024-12-19 16:04:10,475 - report_task - INFO - {'project': 'battleship', 'task': 'fix game start turn bug pt1, know what is wrong', 'coded': 'n', 'tested': 'y', 'documented': 'n', 'committed': 'n', 'real_time': '00:25'}
+2024-12-19 17:17:08,315 - estimate_task - INFO - {'project': 'battleship', 'task': 'fix game start turn bug pt2', 'time_estimate': '00:30'}
+2024-12-19 17:22:31,411 - report_task - INFO - {'project': 'battleship', 'task': 'fix game start turn bug pt2, done', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:05'}
+2024-12-19 17:25:00,730 - estimate_task - INFO - {'project': 'battleship', 'task': 'fix attack bugs', 'time_estimate': '00:25'}
+2024-12-19 17:41:29,411 - report_task - INFO - {'project': 'battleship', 'task': 'fix attack bug', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:16'}
+2024-12-19 17:42:50,153 - estimate_task - INFO - {'project': 'battleship', 'task': 'fix next turn bug', 'time_estimate': '00:25'}
+2024-12-19 17:59:39,178 - report_task - INFO - {'project': 'battleship', 'task': 'fix next turn bug', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:20'}
+2024-12-19 19:12:04,751 - estimate_task - INFO - {'project': 'battleship', 'task': 'mark hit ship', 'time_estimate': '00:25'}
+2024-12-19 19:57:06,628 - report_task - INFO - {'project': 'battleship', 'task': 'mark hit ship', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:50'}
+2024-12-20 14:20:29,161 - estimate_task - INFO - {'project': 'battleship', 'task': 'mark miss shot', 'time_estimate': '00:25'}
+2024-12-20 14:49:48,322 - report_task - INFO - {'project': 'battleship', 'task': 'mark miss shot', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '00:30'}
+2024-12-20 16:41:00,954 - estimate_task - INFO - {'project': 'battleship', 'task': 'handle no connection to server better', 'time_estimate': '00:25'}
+2024-12-20 18:46:59,492 - report_task - INFO - {'project': 'battleship', 'task': 'handle no connection to server better', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '02:05'}
+2024-12-20 23:45:18,601 - estimate_task - INFO - {'project': 'code_generator', 'task': 'setup repository and page', 'time_estimate': '00:25'}
+2024-12-21 02:24:08,106 - report_task - INFO - {'project': 'code_generator', 'task': 'setup repository and page', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '02:35'}
+2024-12-21 15:47:07,681 - estimate_task - INFO - {'project': 'code_generator', 'task': 'how to reconnect client in webdev', 'time_estimate': '00:25'}
+2024-12-21 15:57:59,680 - report_task - INFO - {'project': 'code_generator', 'task': 'how to reconnect client in webdev, just do it as u go, no other way', 'coded': 'n', 'tested': 'n', 'documented': 'n', 'committed': 'n', 'real_time': '00:10'}
+2024-12-21 15:58:34,801 - estimate_task - INFO - {'project': 'code_generator', 'task': 'article on pc evolution', 'time_estimate': '00:25'}
+2024-12-21 16:26:44,625 - report_task - INFO - {'project': 'code_generator', 'task': 'article on pc evolution', 'coded': 'n', 'tested': 'n', 'documented': 'y', 'committed': 'y', 'real_time': '00:25'}
+2024-12-21 16:27:19,376 - estimate_task - INFO - {'project': 'battleship', 'task': 'test and try to fix what happens after refresh', 'time_estimate': '00:25'}
+2024-12-21 17:12:31,631 - report_task - INFO - {'project': 'battleship', 'task': 'fixed player id so reconect logic hits', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '00:40'}
+2024-12-21 17:15:05,056 - estimate_task - INFO - {'project': 'battleship', 'task': 'handle recconnect on client', 'time_estimate': '00:25'}
+2024-12-21 18:37:35,127 - report_task - INFO - {'project': 'battleship', 'task': 'handle recconnect on client, falied project, to complex', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'y', 'real_time': '01:15'}
+2024-12-21 18:51:59,279 - estimate_task - INFO - {'project': 'battleship2', 'task': 'start again to see if i can make it simpler', 'time_estimate': '00:25'}
+2024-12-21 19:57:26,319 - report_task - INFO - {'project': 'battleship2', 'task': 'start again to see if i can make it simpler, generated monorepo', 'coded': 'y', 'tested': 'n', 'documented': 'y', 'committed': 'y', 'real_time': '01:00'}
+2024-12-21 19:58:26,319 - estimate_task - INFO - {'project': 'battleship2', 'task': 'setup server', 'time_estimate': '00:25'}
+2024-12-21 20:40:05,366 - report_task - INFO - {'project': 'battleship2', 'task': 'setup server', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '00:40'}
+2024-12-21 20:40:38,181 - estimate_task - INFO - {'project': 'battleship2', 'task': 'setup client', 'time_estimate': '00:25'}
+2024-12-21 22:48:47,062 - report_task - INFO - {'project': 'battleship2', 'task': 'setup client, server, big probelm for long due to couple of letters', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'n', 'real_time': '02:08'}
+2024-12-22 15:05:08,691 - estimate_task - INFO - {'project': 'dev-guide', 'task': 'battleship-vanilla design doc', 'time_estimate': '00:25'}
+2024-12-22 20:47:10,453 - report_task - INFO - {'project': 'dev-guide', 'task': 'with luch, new repo, proj structure, good quality, first git use in order with its assumptions', 'coded': 'n', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '06:00'}
+2024-12-22 23:41:44,616 - estimate_task - INFO - {'project': 'battleship-vanilla', 'task': 'setup server', 'time_estimate': '00:25'}
+2024-12-23 00:37:32,184 - report_task - INFO - {'project': 'battleship-vanilla', 'task': 'setup server and client, cors, it didnt work well', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'n', 'real_time': '01:00'}
