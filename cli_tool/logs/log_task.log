@@ -229,3 +229,5 @@
 2024-12-22 20:47:10,453 - report_task - INFO - {'project': 'dev-guide', 'task': 'with luch, new repo, proj structure, good quality, first git use in order with its assumptions', 'coded': 'n', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '06:00'}
 2024-12-22 23:41:44,616 - estimate_task - INFO - {'project': 'battleship-vanilla', 'task': 'setup server', 'time_estimate': '00:25'}
 2024-12-23 00:37:32,184 - report_task - INFO - {'project': 'battleship-vanilla', 'task': 'setup server and client, cors, it didnt work well', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'n', 'real_time': '01:00'}
+2024-12-23 12:02:08,767 - estimate_task - INFO - {'project': 'battleship-vanilla', 'task': 'investigating', 'time_estimate': '01:00'}
+2024-12-23 14:12:07,949 - report_task - INFO - {'project': 'battleship-vanilla', 'task': 'removed repo, repaired notes on proj', 'coded': 'n', 'tested': 'n', 'documented': 'y', 'committed': 'y', 'real_time': '02:00'}
