@@ -231,3 +231,15 @@
 2024-12-23 00:37:32,184 - report_task - INFO - {'project': 'battleship-vanilla', 'task': 'setup server and client, cors, it didnt work well', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'n', 'real_time': '01:00'}
 2024-12-23 12:02:08,767 - estimate_task - INFO - {'project': 'battleship-vanilla', 'task': 'investigating', 'time_estimate': '01:00'}
 2024-12-23 14:12:07,949 - report_task - INFO - {'project': 'battleship-vanilla', 'task': 'removed repo, repaired notes on proj', 'coded': 'n', 'tested': 'n', 'documented': 'y', 'committed': 'y', 'real_time': '02:00'}
+2024-12-23 18:55:05,950 - estimate_task - INFO - {'project': 'battleship-vanilla', 'task': 'setup repository', 'time_estimate': '00:25'}
+2024-12-23 20:22:08,108 - report_task - INFO - {'project': 'battleship-vanilla', 'task': 'setup repository', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '01:20'}
+2024-12-23 20:22:30,555 - estimate_task - INFO - {'project': 'battleship-vanilla', 'task': 'setup monorepo', 'time_estimate': '00:25'}
+2024-12-23 20:43:29,916 - report_task - INFO - {'project': 'battleship-vanilla', 'task': 'setup monorepo', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'n', 'real_time': '00:20'}
+2024-12-23 22:27:29,703 - estimate_task - INFO - {'project': 'battleship-vanilla', 'task': 'commit tested vanilla server client monorepo', 'time_estimate': '00:25'}
+2024-12-23 23:16:02,318 - report_task - INFO - {'project': 'battleship-vanilla', 'task': 'commit monorepo and docs in dev-guides', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '00:45'}
+2024-12-24 09:46:56,455 - estimate_task - INFO - {'project': 'battleship-vanilla', 'task': 'init socket.io', 'time_estimate': '00:25'}
+2024-12-24 10:21:06,743 - report_task - INFO - {'project': 'battleship-vanilla', 'task': 'init socket.io', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '00:35'}
+2024-12-24 10:22:10,518 - estimate_task - INFO - {'project': 'battleship-vanilla', 'task': 'shared lib', 'time_estimate': '00:25'}
+2024-12-24 11:42:42,686 - report_task - INFO - {'project': 'battleship-vanilla', 'task': 'shared lib', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '01:20'}
+2024-12-24 13:52:07,203 - estimate_task - INFO - {'project': 'battleship-vanilla', 'task': 'reconnect', 'time_estimate': '00:25'}
+2024-12-24 14:06:25,763 - report_task - INFO - {'project': 'battleship-vanilla', 'task': 'reconnect doc', 'coded': 'n', 'tested': 'n', 'documented': 'y', 'committed': 'y', 'real_time': '00:20'}
