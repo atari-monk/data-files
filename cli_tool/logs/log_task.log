@@ -257,3 +257,11 @@
 2024-12-25 19:28:49,274 - report_task - INFO - {'project': 'battleship-vanilla', 'task': 'encapsulate server, part 1, new libs', 'coded': 'y', 'tested': 'y', 'documented': 'n', 'committed': 'n', 'real_time': '01:00'}
 2024-12-25 22:35:39,843 - estimate_task - INFO - {'project': 'job search', 'task': 'job search', 'time_estimate': '00:25'}
 2024-12-25 23:10:07,994 - report_task - INFO - {'project': 'job search', 'task': 'send 5 cv', 'coded': 'n', 'tested': 'n', 'documented': 'n', 'committed': 'n', 'real_time': '00:35'}
+2024-12-25 23:22:57,424 - estimate_task - INFO - {'project': 'battleship-vanilla', 'task': 'encapsulate server', 'time_estimate': '00:25'}
+2024-12-26 01:25:09,090 - report_task - INFO - {'project': 'battleship-vanilla', 'task': 'encapsulate server, refactor docs in dev-guides', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '02:00'}
+2024-12-26 13:17:52,103 - estimate_task - INFO - {'project': 'job search', 'task': 'job search', 'time_estimate': '00:25'}
+2024-12-26 13:57:59,426 - report_task - INFO - {'project': 'job search', 'task': 'job search', 'coded': 'n', 'tested': 'n', 'documented': 'n', 'committed': 'n', 'real_time': '00:25'}
+2024-12-26 14:17:28,507 - estimate_task - INFO - {'project': 'battleship-vanilla', 'task': 'reconnect', 'time_estimate': '00:25'}
+2024-12-26 15:49:23,612 - report_task - INFO - {'project': 'battleship-vanilla', 'task': 'reconnect doc', 'coded': 'n', 'tested': 'n', 'documented': 'y', 'committed': 'y', 'real_time': '01:30'}
+2024-12-27 00:11:18,201 - estimate_task - INFO - {'project': 'battleship-vanilla', 'task': 'reconnect', 'time_estimate': '00:25'}
+2024-12-27 01:21:51,705 - report_task - INFO - {'project': 'battleship-vanilla', 'task': 'reconnect', 'coded': 'y', 'tested': 'y', 'documented': 'y', 'committed': 'y', 'real_time': '01:10'}
