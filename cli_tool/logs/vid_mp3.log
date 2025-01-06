@@ -14,3 +14,7 @@
 2024-12-17 18:21:58,358 - vid_mp3 - ERROR - Error: [0;31mERROR:[0m [download] Got error: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
 2024-12-17 18:23:18,981 - vid_mp3 - INFO - Running VidToMp3 with URL: https://youtu.be/tO2yRFla_1I
 2024-12-17 18:25:27,544 - vid_mp3 - INFO - Download and conversion to MP3 completed.
+2025-01-05 14:18:32,463 - vid_mp3 - INFO - Running VidToMp3 with URL: https://youtu.be/bUxVIr3dcho
+2025-01-05 14:22:34,980 - vid_mp3 - INFO - Download and conversion to MP3 completed.
+2025-01-05 15:29:26,022 - vid_mp3 - INFO - Running VidToMp3 with URL: https://youtu.be/kDERlmd2NS4
+2025-01-05 15:29:40,504 - vid_mp3 - INFO - Download and conversion to MP3 completed.
